@@ -1,0 +1,6 @@
+numpy>=1.24
+pandas>=2.0
+# optional: only for --symbol downloads
+yfinance>=0.2.40
+# optional: tests
+pytest>=7
